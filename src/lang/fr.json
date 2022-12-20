@@ -1,0 +1,4 @@
+{
+    "test_plural": "plural | plurals",
+    "test_interpolation": "Testing interpolation {hello} {world}"
+}
